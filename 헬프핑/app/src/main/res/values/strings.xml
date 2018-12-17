@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">헬프핑</string>
+    <string name="map_view_title">MapView</string>
+    <string name="buttonmap">근처찾기</string>
+    <string name="buttonseoul">서울시</string>
+    <string name="buttonfindroot">길찾기</string>
+    <string name="buttonsmoke">흡연부스</string>
+    <string name="buttonrestroom">화장실</string>
+    <string name="buttonback">장애인화장실</string>
+</resources>

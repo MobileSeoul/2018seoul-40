@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  <item android:state_pressed="true" android:drawable="@drawable/click_find_disable" />  -->
+    <!--   <item android:drawable="@drawable/button_find_disable" />  -->
+    <item android:state_pressed="true" android:drawable="@drawable/click_disable_restrrom_long" /> <!-- pressed -->
+    <item android:drawable="@drawable/button_disable_restrrom_long" /> <!-- default -->
+</selector>
